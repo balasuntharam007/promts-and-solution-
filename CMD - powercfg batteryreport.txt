@@ -1,0 +1,4 @@
+CMD - powercfg batteryreport
+Searchbox - Windows Memory Diagnostic RAM
+Search – hard disk sentinel download & check 
+Display - set wallpaper white and green color
